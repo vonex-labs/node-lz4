@@ -31,9 +31,11 @@
     "node": ">= 0.10"
   },
   "dependencies": {
-    "buffer": "^5.2.1",
+    "buffer": "^5.4.3",
     "cuint": "^0.2.2",
     "nan": "^2.13.2",
+    "stream": "0.0.2",
+    "util": "^0.12.1",
     "xxhashjs": "^0.2.2"
   },
   "devDependencies": {
